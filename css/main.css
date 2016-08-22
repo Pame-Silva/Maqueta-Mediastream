@@ -91,3 +91,14 @@ a:hover {
 .i-circular {
 	text-align: right;
 }
+/**************************
+/* DISEÑO 1200PX
+/**************************/
+@media screen and (max-width: 1200px) {
+	header, iframe, #video-citas, #programa, #intermedio{
+		width:90%;
+	}
+footer{
+	width:100%;
+	}
+}
